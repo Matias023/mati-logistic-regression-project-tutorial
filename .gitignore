@@ -1,0 +1,11 @@
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data (no subir datasets)
+data/
